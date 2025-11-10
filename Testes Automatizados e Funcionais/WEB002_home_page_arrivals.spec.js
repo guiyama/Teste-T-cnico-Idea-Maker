@@ -1,4 +1,4 @@
-describe('🏠 Home Page - Validate Arrivals Section', () => {
+describe('Home Page - Validate Arrivals Section', () => {
   it('Should display exactly three visible Arrivals on the Home Page', () => {
 
     cy.log('Visiting the practice website')
@@ -27,3 +27,4 @@ describe('🏠 Home Page - Validate Arrivals Section', () => {
     cy.log('Test completed successfully!')
   })
 })
+
