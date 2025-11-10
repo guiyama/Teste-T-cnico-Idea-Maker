@@ -1,4 +1,4 @@
-describe('🏠 Home Page - Arrivals images should navigate correctly', () => {
+describe('Home Page - Arrivals images should navigate correctly', () => {
 
   it('Should navigate to product page when clicking on an Arrival image', () => {
 
@@ -40,3 +40,4 @@ describe('🏠 Home Page - Arrivals images should navigate correctly', () => {
     cy.log('Image click successfully navigated to the product page!')
   })
 })
+
